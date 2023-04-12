@@ -1,6 +1,6 @@
    
    
-  
+ #### Olá, meu nome é Eduardo Garcia e atuo como Desenvolvedor Front-End! por aqui, posto meus trabalhos para portifólio, networking e impulsionamento na carreira.
    
    
   
